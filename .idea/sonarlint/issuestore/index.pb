@@ -5,3 +5,5 @@ Q
 !tests/carbon-offset-token.test.ts,2/0/20e79b3bf9eda0a3270cb6dceb497f13398353d6
 X
 (contracts/carbon-offset-marketplace.clar,1/d/1d8493a063b081fa120753bccebc65c9ba05f90e
+W
+'tests/carbon-offset-marketplace.test.ts,b/5/b55b974fbb2eefc0cb39e9f249bf5aff352d0c52
